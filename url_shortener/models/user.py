@@ -13,8 +13,3 @@ class User:
     password_hash: str
     reg_date: int
     role: Role
-
-
-class UserAssoc:
-    def __init__(self) -> None:
-        pass

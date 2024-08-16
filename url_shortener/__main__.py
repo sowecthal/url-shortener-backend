@@ -1,4 +1,4 @@
-from repository.postgresql.pg_url_repository import PostgreSQLURLRepository
+from repository import PostgreSQLURLRepository
 from services.business import URLShortener
 
 def main():
